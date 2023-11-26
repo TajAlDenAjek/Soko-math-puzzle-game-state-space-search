@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1700992035 source:c:\users\administrator\desktop\sokomath\main.cpp
+	<bits/stdc++.h>
+	<Structure.h>
+	<Logic.h>
+	<chrono>
+	"windows.h"
+
+1699517442 source:c:\users\administrator\desktop\sokomath\src\structure.cpp
+	"Structure.h"
+
+1700990450 c:\users\administrator\desktop\sokomath\include\structure.h
+	<bits/stdc++.h>
+
+1700481465 source:c:\users\administrator\desktop\sokomath\src\logic.cpp
+	"Logic.h"
+	"Structure.h"
+	"windows.h"
+
+1700992058 c:\users\administrator\desktop\sokomath\include\logic.h
+	<bits/stdc++.h>
+	"Structure.h"
+
+1700992035 source:c:\users\administrator\desktop\search algoithms forms\soko_math\sokomath\main.cpp
+	<bits/stdc++.h>
+	<Structure.h>
+	<Logic.h>
+	<chrono>
+	"windows.h"
+
+1700990450 c:\users\administrator\desktop\search algoithms forms\soko_math\sokomath\include\structure.h
+	<bits/stdc++.h>
+
+1700992058 c:\users\administrator\desktop\search algoithms forms\soko_math\sokomath\include\logic.h
+	<bits/stdc++.h>
+	"Structure.h"
+
+1700992201 source:c:\users\administrator\desktop\search algoithms forms\soko_math\sokomath\src\logic.cpp
+	"Logic.h"
+	"Structure.h"
+	"windows.h"
+
+1699517442 source:c:\users\administrator\desktop\search algoithms forms\soko_math\sokomath\src\structure.cpp
+	"Structure.h"
+
